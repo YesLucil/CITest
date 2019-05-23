@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YesLucil/CITest.git"
+  },
+  "author": "Yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YesLucil/CITest/issues"
+  },
+  "homepage": "https://github.com/YesLucil/CITest#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
